@@ -1,7 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Anton&family=Passion+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Passion+One:wght@700&display=swap');
 body{font-family: 'Roboto', sans-serif;}
 
 
@@ -47,7 +47,10 @@ body{font-family: 'Roboto', sans-serif;}
 
 }
 .wwf {
-    font-family: 'Anton', sans-serif;
+    padding-top: 50%;
+    font-weight: 700 bolder;
+    text-align: center;
+    justify-content: center;
 
 }
 
@@ -60,4 +63,11 @@ body{font-family: 'Roboto', sans-serif;}
 .container {
     text-align: center;
     justify-content: center;
+}
+
+.card {
+    width: 400px;
+    height: 250px;
+
+    
 }
