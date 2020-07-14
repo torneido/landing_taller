@@ -26,9 +26,11 @@ body{font-family: 'Roboto', sans-serif;}
     text-decoration: none;
 }
 
-.h2-1 {
+.h21 {
+    padding-top: 100px;
     font-weight: 400;
     font-weight: lighter;
+    padding-bottom: 550px;
 }
 
 .h2 {
@@ -36,6 +38,7 @@ body{font-family: 'Roboto', sans-serif;}
     font-weight: lighter;
     text-align: center;
     justify-content: center;
+    padding-bottom: 250px;
 
     
 }
@@ -70,4 +73,33 @@ body{font-family: 'Roboto', sans-serif;}
     height: 250px;
 
     
+}
+
+.v {
+
+    padding-top: 30px;
+
+}
+
+
+.icono_sitio {
+
+    padding-top: 250px;
+    padding-bottom: 250px;
+    width: 280px;
+    height: 280px;
+
+}
+
+footer {
+
+    padding-top: 250px;
+}
+
+.panda2 {
+    margin: 0;
+    padding: 0;
+
+    text-align: center;
+    justify-content: center;
 }
