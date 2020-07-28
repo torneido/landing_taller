@@ -16,8 +16,17 @@ body{font-family: 'Roboto', sans-serif;
   margin: auto;
 
 
+  
+}
+
+.card-body {
+
+  
+
 
 }
+
+
 .texto_italic {
 
     font-style: italic;
