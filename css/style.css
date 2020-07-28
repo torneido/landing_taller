@@ -186,10 +186,11 @@ h3 {
     
     width: 125px;
     height: 125px;
-    margin-top: 300px;
-    padding-bottom: 500px;
+    padding-top: 200px;
+    padding-bottom: 400px;
     margin: 0 auto;
-    margin-right: auto;
+    margin-right: 500px;
+  
    
     
 
@@ -215,22 +216,6 @@ h3 {
     margin-right: 20px;
 }
 
-
-@media only screen and (max-width:768px){
-
-
-
-  .oceano {
-    padding-top: 112px;
- 
-  }
-.panda_f img {
-  width: 125px;
-  height: 150px;
-}
-
-
-}
 
   
 
