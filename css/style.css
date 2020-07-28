@@ -3,7 +3,10 @@
 
 
 body{font-family: 'Roboto', sans-serif;
-    background-color: white;
+    background-color: rgb(247, 204, 11);
+    margin: 0;
+    padding: 0;
+   
 }
 
 
@@ -47,7 +50,7 @@ h2  {
 }
 
 
- .nav-link:hover  {  
+
 
  }       
 
@@ -177,18 +180,28 @@ h3 {
 
 
 
-.panda_f {
+.panda_f  {
 
    
     
-    width: 200px;
-    height: 200px;
+    width: 125px;
+    height: 125px;
     margin-top: 300px;
     padding-bottom: 500px;
+    margin: 0 auto;
+    margin-right: auto;
    
+    
 
 
 }
+
+
+.panda_bottom {
+  padding-left: 300px;
+  
+}
+
 
 .en_wwf {
 
@@ -203,7 +216,23 @@ h3 {
 }
 
 
+@media only screen and (max-width:768px){
 
+
+
+  .oceano {
+    padding-top: 112px;
+ 
+  }
+.panda_f img {
+  width: 125px;
+  height: 150px;
+}
+
+
+}
+
+  
 
 
 
